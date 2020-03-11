@@ -225,7 +225,7 @@ public class TicTacToe {
         return b;
     }
 
-    //Git-Hubb
+    //Git-Hubb 333
 
     private static boolean checkWin(char c, int l) {
         //ищем выигрышные вертикали в поле
