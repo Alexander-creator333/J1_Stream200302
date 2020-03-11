@@ -249,7 +249,7 @@ public class TicTacToe {
         //...обратные диагонали
         for (int y = 0; y < fieldSizeY-l; y++) {
             for (int x = fieldSizeX-1; x >= l  ; x--) {
-                System.out.println("x, y"+ x+" "+y);
+               // System.out.println("x, y"+ x+" "+y);
                 if(checkPsetWinR(y,x,c,l)==l) return true;
             }
         }
