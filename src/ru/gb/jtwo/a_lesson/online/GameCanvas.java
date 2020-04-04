@@ -22,7 +22,7 @@ public class GameCanvas extends JPanel {
         long currentTime = System.nanoTime();
         float deltaTime = (currentTime - lastFrameTime) * 0.000000001f;
         lastFrameTime = currentTime;
-        backFon.setBackGRND(g,deltaTime,getRight(),getBottom());
+        backFon.setBackGRND(g,getRight(),getBottom());
         listener.onCanvasRepainted(this, g, deltaTime);
         try {
             Thread.sleep(17);
