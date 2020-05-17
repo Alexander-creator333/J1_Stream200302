@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="63d388ec-ff73-469c-ab9c-719bad13c73f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/geekbrains/java_one/lesson_c/online/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/geekbrains/java_one/lesson_c/online/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,7 @@
       <workItem from="1583857120121" duration="1737000" />
       <workItem from="1583859064082" duration="1778000" />
       <workItem from="1583903219627" duration="566000" />
-      <workItem from="1583904647479" duration="41000" />
+      <workItem from="1583904647479" duration="1150000" />
     </task>
     <servers />
   </component>
@@ -128,6 +127,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583841397061" />
+    <state x="406" y="14" key="CommitChangelistDialog2" timestamp="1583905840340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583905840340" />
     <state x="607" y="331" width="345" height="181" key="Github.CreateGistDialog" timestamp="1583903628207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
